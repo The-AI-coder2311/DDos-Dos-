@@ -25,6 +25,6 @@ don't use for bad intentions/purposes. If you do you will be caught.
     cd DDos-Dos-
     python3 find-more-proxies
     
-
+When finding more ips sometimes and most likely it will show the ips on my .txt file in which all the ips shown in the terinmal are found. As well as most free proxy ips dont work for this type of work so dont be shocked if it doesn't work.
 
 
