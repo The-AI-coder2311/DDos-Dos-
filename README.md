@@ -19,6 +19,12 @@ don't use for bad intentions/purposes. If you do you will be caught.
 
     cd DDos-Dos-
     python3 main
+
+#FINDING MORE IPS
+
+    cd DDos-Dos-
+    python3 find-more-proxies
     
+
 
 
