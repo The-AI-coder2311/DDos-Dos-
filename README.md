@@ -6,3 +6,11 @@ it spams pings via proxies replace the proxies in the code if needed
 
 
 don't use for bad intentions/purposes. If you do you will be caught.
+
+#INSTALL
+pip install random, time, logging, socks, socket, mcstatus, statistics, colorama
+git clone https://github.com/The-AI-coder2311/DDos-Dos-
+
+#USE
+cd DDos-Dos-
+python3 main
