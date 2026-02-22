@@ -1,10 +1,3 @@
-#INSTALL
-
-    sudo apt-get install python3 python3-pip git
-    pip3 install requests colorama pysocks
-    git clone https://github.com/GogoZin/Collapsar
-    
-
 
 
 # DDos-Dos
@@ -18,9 +11,14 @@ don't use for bad intentions/purposes. If you do you will be caught.
 
 #INSTALL
 
-  pip install random, time, logging, socks, socket, mcstatus, statistics, colorama
-git clone https://github.com/The-AI-coder2311/DDos-Dos-
+    sudo apt-get install python3 python3-pip git
+    pip3 install random, time, logging, socks, socket, mcstatus, statistics, colorama
+    git clone https://github.com/The-AI-coder2311/DDos-Dos-
 
 #USE
-cd DDos-Dos-
-python3 main
+
+    cd DDos-Dos-
+    python3 main
+    
+
+
